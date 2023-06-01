@@ -1,0 +1,18 @@
+h1 {color: blue;
+    text-align: center;}
+    body {background-color: black;
+    padding: 150px}
+    p{color: whitesmoke;
+    text-align: center;}
+    h2{color: cadetblue;
+    text-align: center;}
+    .fight {color: red;}
+    .luta {color: rgb(255, 183, 157);}
+    table {color: white; border-color: red;}
+    .branco{
+        background-color: white;
+    }
+    .ck {
+        color: black;
+    }
+    
